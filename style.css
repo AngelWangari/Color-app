@@ -1,0 +1,44 @@
+body{
+    font-family: var(--ff-secondary);
+    background: var(--clr-grey-10);
+    color: var(--clr-grey-1);
+    line-height: 1.5;
+    font-size: 0.875rem;
+}
+h2{
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.nav{
+    background-color: white;
+}
+.box{
+    text-align: center;
+    margin-top: 180px;
+}
+#color{
+    background-color: black;
+    color: white;
+    font-size: 29px;
+    padding: 10px 30px;
+}
+#btn{
+    font-weight: 700;
+    font-size: 15px;
+    padding: 8px 13px;
+    font-weight: 400;
+    border: 1.5px solid black;
+    border-radius: 3px;
+    background: none;
+}
+#btn:hover{
+background-color: black;
+color: white;
+cursor: pointer;
+}
+span{
+    color: dodgerblue;
+}
